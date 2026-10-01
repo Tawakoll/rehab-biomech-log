@@ -17,6 +17,8 @@
 
 **Thu 17.** Repository created. Wrote the README and the roadmap, and set the rule that decides everything else: thirty minutes a day, committed daily, coursework and applications paid for out of a different budget.
 
+** date in my notebook**  Studied chapter one mainly contains terminilogies and definitions. Also started the biomedical robotics course with Prof Maura Casadio at the university following also Rehabilitation engineering and prosthetics course.
+
 ## In my own words
 
 *The gait cycle, start to finish, without looking anything up. Written at the end of the week.*
