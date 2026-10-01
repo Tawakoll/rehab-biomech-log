@@ -79,6 +79,7 @@ One note per week, written in my own words, committed dated. Template: [notes/TE
 | Week | Dates | Focus | Note |
 |---|---|---|---|
 | 01 | 17–23 Sep 2026 | Planes, axes, the gait cycle · linear algebra 1–3 | [week-01.md](notes/week-01.md) |
+| 02 | 24–30 Sep 2026 | Winter ch. 2, signal processing · linear algebra 4–6 | [week-02.md](notes/week-02.md) |
 
 ---
 
