@@ -22,9 +22,10 @@
 
 
 **Who am I and why?**
-I am a robotics engineering master's student in Genoa, heading for wearable and assistive robotics: devices that read what a person's body is doing and act on it. This repository is the dated record of getting there — what I read, what I write, what I get wrong.
 
-The reason for keeping it in public is simple. A plan is a promise; a commit history is evidence. If the work happened, it is here with a date on it, and if a week went badly that is here too.
+I am a final year robotics engineering master's student in Genoa, heading for wearable and assistive robotics
+
+The reason for keeping it in public is that this is a proof of my passion , my learning and serves as a reference for myself and I hope others find it useful too. 
 
 ---
 
