@@ -2,7 +2,27 @@
 
 **Learning biomechanics and biosignal processing in the open, thirty minutes a day, from 17 September 2026 to 14 February 2027.**
 
-I am a robotics engineering master's student in Genoa, heading for wearable and assistive robotics: devices that read what a person's body is doing and act on it. This repository is the dated record of getting there — what I read, what I write, what I get wrong — one weekly note at a time.
+**Current status**
+- A live summary for the Winters Biomechanics book can be found on  [google docs](https://docs.google.com/document/d/1vfKHsqdMt5n5FODt5Ng5KedmzgXok3GKNBzZjzM06zs/edit?usp=sharing)
+
+12, October 2026 update
+- Studied chapter 1, 2 and major parts of 3 Winters Biomechanics and Motor Control of Human Movement book. 
+- Summarized chapters 1 and almost all of 2 in the PDF found in notes with date of 12 October
+
+
+
+
+
+
+
+
+
+
+
+
+
+**Who am I and why?**
+I am a robotics engineering master's student in Genoa, heading for wearable and assistive robotics: devices that read what a person's body is doing and act on it. This repository is the dated record of getting there — what I read, what I write, what I get wrong.
 
 The reason for keeping it in public is simple. A plan is a promise; a commit history is evidence. If the work happened, it is here with a date on it, and if a week went badly that is here too.
 
