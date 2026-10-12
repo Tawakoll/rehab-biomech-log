@@ -17,3 +17,8 @@ venv/
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# Tool configs
+.gemini/
+.agent/
+.agents/
